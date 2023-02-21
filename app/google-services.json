@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836614722854",
+    "project_id": "pocket-sport-mostbet",
+    "storage_bucket": "pocket-sport-mostbet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836614722854:android:2c881e4db30648b0ebdde7",
+        "android_client_info": {
+          "package_name": "com.bets.mos.tbe.ts.most"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836614722854-dbjuvc016coo2133tanp6g1dq7quct7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTFGIhPSzSUbLM91sFPYV9UZ1jSdvAO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836614722854-dbjuvc016coo2133tanp6g1dq7quct7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

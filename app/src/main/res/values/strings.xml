@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pocket sport mostbet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- For the Moneyline Calculator Fragment -->
+    <string name="moneyline_instructions">Enter the moneyline odds for your bet:</string>
+    <string name="wager_hint">Enter your wager</string>
+    <string name="odds_hint">Enter the odds</string>
+    <string name="calculate">Calculate</string>
+    <string name="payout_result">Payout: $%.2f</string>
+
+    <!-- For the Point Spread Calculator Fragment -->
+    <string name="point_spread_instructions">Enter the point spread and odds for your bet:</string>
+    <string name="spread_hint">Enter the point spread</string>
+
+    <!-- For the Parlay Calculator Fragment -->
+    <string name="instructions">Enter the odds for each selection in your parlay:</string>
+    <string name="error_message">error</string>
+    <string name="fb">1861321827583839</string>
+    <string name="fbclient">c24a50723a4075bcbe2e92e979449675</string>
+    <string name="scheme">fb1861321827583839</string>
+
+</resources>
